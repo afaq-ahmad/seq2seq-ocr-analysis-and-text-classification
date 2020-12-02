@@ -24,3 +24,6 @@ Link: https://blog.csdn.net/mochp/article/details/109491521
 ### Model test
     
     Run python test.py
+    
+    
+Source: https://github.com/limengyang1992/seq2seq-ocr-analysis
